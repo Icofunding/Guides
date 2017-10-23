@@ -1,4 +1,6 @@
-# INDEX
+# How to create a Wallet on MyEtherWallet and Parity to participate in an ICO
+
+## INDEX
 
 ### I. <a href="#myetherwallet">How to create a Wallet on MyEtherWallet to participate in an ICO</a>
 
