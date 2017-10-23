@@ -1,8 +1,10 @@
-I. <a href="#myetherwallet">myetherwallet</a>
+I. <a href="#myetherwallet">How to create a Wallet on MyEtherWallet to participate in an ICO</a>
 
-II. Parity
+II. <a href="#parity">How to create a Wallet on Parity to participate in an ICO</a>
 
-# I. <a name="myetherwallet">How to create an Ether Wallet to participate in an ICO</a>
+
+
+# I. <a name="myetherwallet">How to create a Wallet on MyEtherWallet to participate in an ICO</a>
 
 
 <a href="https://imgur.com/GCcfDTu"><img src="https://i.imgur.com/GCcfDTu.png" title="source: imgur.com" /></a>
@@ -46,7 +48,7 @@ Now, we are goin to explain how to create an Ether Wallet at [MyEtherWallet](htt
 
 
 
-# II. How to create a wallet on Parity to participate in an ICO
+# II. <a name="parity">How to create a Wallet on Parity to participate in an ICO</a>
 
 [Parity](https://parity.io "Parity") is an Ethereum client integrated directly into your web browser. It allow the user to access the basic Ether and token wallet functiuons and also allow the access to an Ethereum GUI browser that provides access to all the features of the Ethereum network, including dApps.
 
