@@ -99,6 +99,46 @@ i. Clock **"Close"** to go to your wallet.
 
 ## 3. Receive and send ETH and Tokens
 
-a. Click 
+a. Click **"Accounts"**
+
+<a href="https://imgur.com/2WJQlU1"><img src="https://i.imgur.com/2WJQlU1.png" title="source: imgur.com" /></a>
+
+b. Click **"+Account"**
+
+c. Choose from the options available. You can import accounts from the Geth keystore folder, upload a JSON file private key,  import an Ethereum presale wallet or enter the raw private key. Choose whichever fits best and click "Next" and follow the instructions.
+
+<a href="https://imgur.com/FSeLMTN"><img src="https://i.imgur.com/FSeLMTN.png" title="source: imgur.com" /></a>
+
+
+## 4. Receive and send ETH and tokens
+
+a. Click **"Accounts"** and **choose an account**
+
+b. To receive Ether, simply send ETH to the address shown or give it to the sender
+
+<a href="https://imgur.com/mnBj8mx"><img src="https://i.imgur.com/mnBj8mx.png" title="source: imgur.com" /></a>
+
+c. To send Ether, click **"Transfer"**
+
+d. Select the token that you want to send. You can choose between Ether and any other Ethereym-based token
+
+e. Enter the recipient address. When you click this field, you can type the address but your address book will pop up. You can add and remove addresses from the address on the "addressbook" section.
+
+f. Enter the amount of Ether you want to send
+
+g. Click **"Send"**
+
+g. Enter you password and click **"Confirm Request"·**
+
+<a href="https://imgur.com/TG9UnPH"><img src="https://i.imgur.com/TG9UnPH.png" title="source: imgur.com" /></a>
+
+
+
+
+
+
+
+
+
 
 
