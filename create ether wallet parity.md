@@ -95,11 +95,8 @@ i. Clock **"Close"** to go to your wallet.
 
 <a href="https://imgur.com/hiN7W2R"><img src="https://i.imgur.com/hiN7W2R.png" title="source: imgur.com" /></a>
 
+## 3. Receive and send ETH and Tokens
 
-## 3. Restore a Wallet
-
-Once you have an account created, you will be taking to the PArity dashboard. Now, we are going to show how to restore a previous wallet you may have created with another app like MyetherWallet or Mist.,
-
-a. Click **"Accounts"**
+a. Click 
 
 
