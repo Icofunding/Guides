@@ -1,8 +1,8 @@
-I. ### MyEtherWallet{#myetherwallet}
+I. <a href="#myetherwallet">myetherwallet</a>
 
 II. Parity
 
-# I. [How to create an Ether Wallet to participate in an ICO](#myetherwallet)
+# I. <a name="myetherwallet">How to create an Ether Wallet to participate in an ICO</a>
 
 
 <a href="https://imgur.com/GCcfDTu"><img src="https://i.imgur.com/GCcfDTu.png" title="source: imgur.com" /></a>
